@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-crew/static/css/main.e47145a5.chunk.css",
+    "main.css": "/the-crew/static/css/main.822c033a.chunk.css",
     "main.js": "/the-crew/static/js/main.f02e0215.chunk.js",
     "main.js.map": "/the-crew/static/js/main.f02e0215.chunk.js.map",
     "runtime-main.js": "/the-crew/static/js/runtime-main.eab54814.js",
@@ -8,13 +8,13 @@
     "static/js/2.81952fa9.chunk.js": "/the-crew/static/js/2.81952fa9.chunk.js",
     "static/js/2.81952fa9.chunk.js.map": "/the-crew/static/js/2.81952fa9.chunk.js.map",
     "index.html": "/the-crew/index.html",
-    "static/css/main.e47145a5.chunk.css.map": "/the-crew/static/css/main.e47145a5.chunk.css.map",
+    "static/css/main.822c033a.chunk.css.map": "/the-crew/static/css/main.822c033a.chunk.css.map",
     "static/js/2.81952fa9.chunk.js.LICENSE.txt": "/the-crew/static/js/2.81952fa9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eab54814.js",
     "static/js/2.81952fa9.chunk.js",
-    "static/css/main.e47145a5.chunk.css",
+    "static/css/main.822c033a.chunk.css",
     "static/js/main.f02e0215.chunk.js"
   ]
 }
